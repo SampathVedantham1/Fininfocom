@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="empty_user_name">* Enter the User name</string>
+    <string name="empty_password">* Enter the password</string>
+    <string name="valid_user_name">* Enter the valid User Name.</string>
+    <string name="valid_password">* Enter the valid Password.</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_age">Sort By Age</string>
+    <string name="sort_by_city">Sort By City</string>
+    <string name="sign_out">Sign out</string>
+</resources>
